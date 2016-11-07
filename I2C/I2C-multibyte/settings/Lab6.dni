@@ -1,0 +1,76 @@
+[DebugChecksum]
+Checksum=1445487505
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[EEM State Storage]
+Buffer=BAAAAAAADAAAAAAAAAAAAAAA
+[EEM Sequencer]
+Buffer=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[EEM Cycle Counter 0]
+Counter0=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[EEM Cycle Counter 1]
+Counter1=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[PowerLog]
+Title_0=Energy
+Symbol_0=0 4 0
+Title_1=Voltage
+Symbol_1=0 4 0
+Title_2=Current
+Symbol_2=0 4 0
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+LiveEnabled=0
+LiveFile=PowerLogLive.log
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[PowerProbe]
+Frequency=10000
+Probe0=Current
+ProbeSetup0=0 1 1 2 0 0
+Probe1=Voltage
+ProbeSetup1=1 1 1 4 0 0
+Probe2=Energy
+ProbeSetup2=4 1 1 10 0 0
+[Breakpoints]
+Count=0
+[FET]
+Clock mode=46
+Extended Clock mode=1031
+Secure Password=
+Extended Clock Control Enable=1
+Advanced Extended Clock Control=0
+Emulation mode=0
+Free running=0
+Shutting Down=3
+[Memory Dump]
+Start address=
+Lenghth=
+Address info=0
+Format=0
+Dump registers=0
+PC=0
+SP=0
+SR=0
+all registers=0
+File name=
+[Aliases]
+Count=0
+SuppressDialog=0
